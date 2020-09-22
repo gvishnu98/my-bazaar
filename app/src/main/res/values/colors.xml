@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#4F7942</color>
+    <color name="btnGreen">#4F7942</color>
+    <color name="successGreen">@android:color/holo_green_dark</color>
+    <color name="RecyclerViewBackground">#d6d6d6</color>
+    <color name="Cancelled">#FF0000</color>
+</resources>
